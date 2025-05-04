@@ -1,0 +1,9 @@
+.header1 {
+    position: sticky;
+    top: 0;
+    padding: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    background: #555;
+    overflow: hidden;
+}
